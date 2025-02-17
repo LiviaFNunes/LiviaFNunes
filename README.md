@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **livfnunes@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/lívia-nunes-64387345]([www.linkedin.com/in/lívia-nunes-64387345](https://www.linkedin.com/in/l%C3%ADvia-nunes-64387345/))
+- 📄 Know about my experiences [[www.linkedin.com/in/lívia-nunes-64387345](https://www.linkedin.com/in/l%C3%ADvia-nunes-64387345/)]([www.linkedin.com/in/lívia-nunes-64387345](https://www.linkedin.com/in/l%C3%ADvia-nunes-64387345/))
 
 - ⚡ Fun fact **I have a degree in Agronomy and a Ph.D. in Entomology. With the aim of aligning my professional life with my genuine interest in generating knowledge from data, I am currently focusing on expanding my expertise in Data Science tools, particularly those related to agribusiness data.**
 
